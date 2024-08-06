@@ -1,3 +1,3 @@
 test= True
 test2 = False
-test3 = 0
+test3 = "not pass"
