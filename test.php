@@ -2,3 +2,5 @@
 
 
 echo sayHello("chéri");
+
+$samarche = false;
