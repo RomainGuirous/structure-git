@@ -1,7 +1,7 @@
 <?php
 
 
-echo sayHello("chéri");
+echo sayHello("toutou");
 
-$samarche = false;
-$stp = "marche";
+$samarche = true;
+$stp = "nage";
