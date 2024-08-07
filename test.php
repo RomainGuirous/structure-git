@@ -1,8 +1,7 @@
 <?php
 
-function sayHello(string $name)
-{
-    return "hello " . $name . " !";
-}
 
-echo sayHello("connard");
+echo sayHello("chéri");
+
+$samarche = false;
+$stp = "marche";
